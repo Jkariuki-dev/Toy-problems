@@ -1,5 +1,5 @@
 function grade() {
-    if (grade >= 79 && 100 );
+    if (grade >= 79 && grade <= 100 );
 }
 return A;
 
